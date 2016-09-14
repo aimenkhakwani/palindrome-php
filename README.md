@@ -19,7 +19,7 @@ This website takes user input and confirms or denies if the given words are pali
 ## Specifications
 
 * The program will take one input and return true or false
-    * Example input: "hello"
+    * Example input: "goop"
     * Example output: "false"
 
 * The program will identify if the word is a palindrome
